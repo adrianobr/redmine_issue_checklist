@@ -40,6 +40,7 @@ span.checklist-item.is-done-checklist-item, #issue_checklist_items li.is-done-ch
 span.checklist-item .delete {
   margin-left: 2px;
   opacity: 0.4;
+  display: contents;
 }
 
 span.checklist-item:hover .delete {
